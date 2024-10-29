@@ -1,1 +1,11 @@
-# NLP
+# Natural Processing Language 
+
+## Conclusion 
+
+The Word2Vec model provides meaningful insights into the context and relationships of critical terms in job postings. By examining the target words "data," "management," and "healthcare," we can infer how these terms are used in distinct contexts within the job market and their associations with other relevant concepts.
+
+The term "data" is closely associated with technical roles and appears near words like "software" in the PCA plot. This indicates that in the job postings, "data" is used in contexts emphasizing technical skills such as data analysis, database management, and software development. The relationship between "data" and "software" suggests that job descriptions involving "data" likely require technical proficiency in handling large datasets, building data pipelines, or using software tools for data-driven decision-making. This distinction from terms like "management" and "team" highlights that "data"-related roles are more focused on technical execution rather than leadership or collaboration.
+
+In contrast, "management" is positioned closer to words like "team" and "experience," implying that job descriptions mentioning "management" emphasize leadership, team coordination, and experience in overseeing projects or organizational activities. The proximity of "management" to "team" suggests that these roles are centered on people leadership, strategic planning, and fostering collaboration within teams. Additionally, the relationship with "experience" highlights that managerial positions often require a demonstrated track record in managing teams or projects, a key criterion in business, operational, and administrative job postings.
+
+Lastly, "healthcare" occupies a distinct space in the PCA plot, far from both technical terms like "data" and leadership-oriented words like "management." This separation indicates that "healthcare" is likely associated with specialized roles in clinical settings, focusing on patient care, medical services, or healthcare delivery. The relative isolation of "healthcare" from other business or technical terms suggests that these roles require specific expertise in the medical field and are less likely to overlap with data-driven or managerial responsibilities. Healthcare-related job postings will likely focus on medical qualifications, clinical skills, and direct patient interactions rather than technical software expertise or team leadership.
